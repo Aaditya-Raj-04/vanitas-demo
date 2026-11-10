@@ -1,4 +1,4 @@
 # vanitas-demo
 This is my first git repository
 <br>
-Author - Aaditya Raj
+Author - Aaditya Raj (Vanitas)
